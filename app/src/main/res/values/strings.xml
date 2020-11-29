@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kotlin-Messenger</string>
+    <string name="agora_access_token"></string>
+    <string name="agora_app_id">5d260302b64949b79acbf256a78a38d1</string>
+</resources>
